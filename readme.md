@@ -27,3 +27,17 @@ Encryption is not possible directly with npm packages we have to use mongoose ho
 We can design custom methods
 
 JWT || its a bearer token like a key who will bear jwt he will get data
+
+//File upload
+
+Cloudinary
+packages:Expressfileupload or multer
+multer takes any file from the user stores it temporarily and uploads it on cloudinary server(production level)||Multer can also directly take the files and upload it on multer
+
+fs -file system from node \*\*unlink
+
+We will create middleware using multer
+
+//HTTP crash course
+hyper text transfer protocol
+URL,URI,URN
